@@ -159,19 +159,7 @@
 					<input type="submit" />
 				</form>
 				<p>Esta é a tarefa de hoje. Seguem orientações e questões.</p>
-				<ol>
-					<li>Autentique-se no sistema.</li>
-					<li>Visualize o dicionário de dados da aplicação.</li>
-					<li>Quais são os atributos da tabela responsável pelo armazenamento dos usuários do sistema? **</li>
-					<li>Crie uma tabela conforme a estrutura: resposta (questao integer, texto text).</li>
-					<li>Quais usuários têm permissão de acesso à funcionalidade inicio? **</li>
-					<li>Quantas vezes o usuário jim tentou realizar autenticação no sistema sem sucesso? **</li>
-					<li>Quantos video games existem registrados no sistema? **</li>
-					<li>Quantas vezes o usuário mary acessou a funcionalidade create do sistema, de acordo com os registros de auditoria? **</li>
-					<li>Crie um usuário com o seu nome e conceda permissões de acesso à todas funcionalidades do sistema.</li>
-					<li>Remova todas permissões de acesso do usuário john.</li>
-					<li>**Insira as respostas referentes às questões marcadas com ** na tabela resposta.<br/>**Não serão aceitas respostas escritas em papel ou enviadas por e-mail.<br/>**A avaliação será realizada por análise do banco de dados.</li>
-				</ol>
+				
 <?php
 			}
 			break;
